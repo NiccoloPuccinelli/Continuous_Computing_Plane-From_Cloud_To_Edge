@@ -1,1 +1,3 @@
 # Continuous Computing Plane - From Cloud To Edge
+
+Here is the work performed together with my colleague **Remo Marconzini**. We conducted an in-depth research on the concept of the **Continuous Computing Plane**, exploring the concepts of **Cloud**, **Fog** and **Edge** computing and the interactions between them. In particular, we focused on the strengths of this new approach and possible new technological insights. We also addressed the issue from a technical point of view, going on to investigate, among other things, different **orchestration** methods (and the specific case of [**Cloudify**](https://cloudify.co/)), the concept of **Federated Learning** and various possible applications in the field of **Data Science**.
